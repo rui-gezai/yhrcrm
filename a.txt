@@ -1,4 +1,3 @@
 aacc
-aabb
-aabbcc
+a
 
